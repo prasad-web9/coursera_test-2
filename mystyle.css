@@ -42,8 +42,8 @@ button[aria-expanded="true"]{
 border-color: black !important;	
 }
 .navbar-brand{
-	padding: 35px !important;
-	font-size: 40px !important;
+	padding: 20px !important;
+	font-size: 35px !important;
 	
 }
 .parent-nav{
